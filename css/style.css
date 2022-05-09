@@ -1,0 +1,45 @@
+/* Created by Rob de Wit 2022 */
+/* Feel free to use this CSS under the Creative Commons Attribution-ShareAlike 4.0 International License. */
+
+body {
+	font-family: 'Atkinson Hyperlegible', sans-serif;
+	color: #eee;
+	background-color:#111;
+	margin: auto;
+	/* max-width: 500px; */
+	line-height: 1.2rem;
+}
+
+a {
+	color: #66f;
+}
+
+.container {
+	max-width: 500px;
+	margin-top: 3rem;
+	margin: 2rem;
+	/* padding: 1rem; */
+	/* background-color: #fefefe; */
+}
+
+img.logo {
+	max-width: 300px;
+	margin-bottom: 1rem;
+}
+
+div.contact-details span{
+	display: block;
+}
+
+div.contact-details span.header{
+	font-weight: bold;
+}
+
+
+div.contact-details .contact-section {
+	margin-bottom: 1.2rem;
+}
+
+div.footer {
+	font-size: 0.7rem;
+}
